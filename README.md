@@ -1,4 +1,1 @@
-Made a name generator, using basic python concepts, 
-variables
-strings
-input
+MADE A NAME GENERATOR BY USING BASIC PYTHON CONCEPTS SUCHA AS INPUT, STRINGS, AND STRING CONCATENATION.
